@@ -24,6 +24,14 @@ export default function App() {
           >
             GitHub
           </a>
+          , also it is hosted on{" "}
+          <a
+            href="https://app.netlify.com/sites/singular-swan-151a20/overview"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
